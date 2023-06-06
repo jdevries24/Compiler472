@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTbB/MqhHBcTM7po37Pus4V5+0Cv6/yTWJe5FCC0SjHO9qhb+pWwGweSU6IlHn1Z2v9C+zjgNc5bXHS0B6t18A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JeffreyDevries\\Documents\\Winter2023\\Compiler472\\Parser\\Parser\\Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JeffreyDevries\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\JeffreyDevries\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\JeffreyDevries\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\JeffreyDevries\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

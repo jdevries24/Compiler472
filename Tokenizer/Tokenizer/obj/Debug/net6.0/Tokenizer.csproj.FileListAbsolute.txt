@@ -1,0 +1,15 @@
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\bin\Debug\net6.0\Tokenizer.exe
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\bin\Debug\net6.0\Tokenizer.deps.json
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\bin\Debug\net6.0\Tokenizer.runtimeconfig.json
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\bin\Debug\net6.0\Tokenizer.dll
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\bin\Debug\net6.0\Tokenizer.pdb
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\Tokenizer.csproj.AssemblyReference.cache
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\Tokenizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\Tokenizer.AssemblyInfoInputs.cache
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\Tokenizer.AssemblyInfo.cs
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\Tokenizer.csproj.CoreCompileInputs.cache
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\Tokenizer.dll
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\refint\Tokenizer.dll
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\Tokenizer.pdb
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\Tokenizer.genruntimeconfig.cache
+C:\Users\JeffreyDevries\Documents\Winter2023\Compiler472\Tokenizer\Tokenizer\obj\Debug\net6.0\ref\Tokenizer.dll

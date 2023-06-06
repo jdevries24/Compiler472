@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EnPHzIbHfJ5BvmbGG9IC4IMaV0S6yn9urZOsh7UUkaR3f0FFLF5cmEFw1O9vZndSrF3X2FcaOr9obd3ZGVT85g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JeffreyDevries\\Documents\\Winter2023\\Compiler472\\Tokenizer\\Tokenizer\\Tokenizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JeffreyDevries\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\JeffreyDevries\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\JeffreyDevries\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\JeffreyDevries\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
